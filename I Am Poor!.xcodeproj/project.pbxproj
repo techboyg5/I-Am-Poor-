@@ -16,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B55072FB284C185200E5DEAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B55072FD284C18B000E5DEAA /* LICENSE.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		B5EC83FB2814C396007241D6 /* I Am Poor!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Poor!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5EC83FE2814C396007241D6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5EC84002814C396007241D6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,8 @@
 		B5EC83F22814C396007241D6 = {
 			isa = PBXGroup;
 			children = (
+				B55072FD284C18B000E5DEAA /* LICENSE.md */,
+				B55072FB284C185200E5DEAA /* README.md */,
 				B5EC83FD2814C396007241D6 /* I Am Poor! */,
 				B5EC83FC2814C396007241D6 /* Products */,
 			);
